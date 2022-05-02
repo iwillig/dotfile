@@ -1,0 +1,8 @@
+i3-wm.gaps.inner.size: 0
+
+gnome.terminal.font: OpenDyslexicMono 8
+
+i3-wm.font: OpenDyslexic 8
+i3xrocks.value.font: OpenDyslexic 18
+
+rofi.font: OpenDyslexic 8
