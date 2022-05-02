@@ -1,0 +1,3 @@
+function migrator -d "Starts or connects to a migrator instance, tunnelling port 44444"
+    aws-vault exec developer -- ~/development/clubhouse/backend/bin/migrator -L 44444:localhost:44444
+end
