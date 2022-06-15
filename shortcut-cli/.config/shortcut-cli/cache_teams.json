@@ -1,0 +1,1937 @@
+{
+  "5eeb7693-7834-43b4-a52d-a27ae8e19775": {
+    "app_url": "https://app.shortcut.com/internal/team/5eeb7693-7834-43b4-a52d-a27ae8e19775",
+    "description": "Growth & Activation Squad",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 27,
+    "mention_name": "ga-squad",
+    "name": "G&A Squad",
+    "color_key": "purple",
+    "num_stories": 1260,
+    "num_epics_started": 9,
+    "id": "5eeb7693-7834-43b4-a52d-a27ae8e19775",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5eeb77ae-5be1-445a-9e1e-ba8c6296e56c",
+      "created_at": "2020-06-18T14:18:22Z",
+      "updated_at": "2020-06-18T14:18:22Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5eeb77ae-5be1-445a-9e1e-ba8c6296e56c/thumb_Growth-Culture-vs-Performance-Obssessed-Culture.png"
+    },
+    "member_ids": [
+      "621c6e2d-aa61-4918-9334-704200cbfa21",
+      "61b99225-78c0-48e6-b27f-8f7b80e4e5c7",
+      "5e1e187a-c956-4855-a92c-92027f63044d",
+      "61b6fced-e5be-4a04-9802-9c84767c277c",
+      "616d75bd-5841-41b4-8372-6a399953c437",
+      "62264ef4-9ea5-402d-acae-7e1b51694a25",
+      "625d0e15-ea68-4fab-a5c7-2ee27b3e89a8",
+      "5f68a7ae-54c9-4044-afd0-e50144767c62",
+      "61483442-76b8-4fc8-945c-ede3085cfd36"
+    ],
+    "workflow_ids": [
+      "500064938",
+      "500062181",
+      "500017920",
+      "500064058",
+      "1488",
+      "500101221",
+      "500105268"
+    ]
+  },
+  "5f0362d3-e50b-48a4-8537-96662e30e5b9": {
+    "app_url": "https://app.shortcut.com/internal/team/5f0362d3-e50b-48a4-8537-96662e30e5b9",
+    "description": "Current Devs on Support rotation",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 18,
+    "mention_name": "devsonsupport",
+    "name": "Devs on Support",
+    "color_key": "red",
+    "num_stories": 501,
+    "num_epics_started": 1,
+    "id": "5f0362d3-e50b-48a4-8537-96662e30e5b9",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5f7f448d-be3e-4253-8d08-e29820325fd3",
+      "created_at": "2020-10-08T16:55:41Z",
+      "updated_at": "2020-10-08T16:55:41Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5f7f448d-be3e-4253-8d08-e29820325fd3/thumb_kissclipart-helpdesk-icon-png-clipart-computer-icons-technical-4fdbcdbc69d502ae.jpg"
+    },
+    "member_ids": [
+      "61b6fced-e5be-4a04-9802-9c84767c277c",
+      "6237e279-d9a6-463b-a1b7-2ae29fb6b100"
+    ],
+    "workflow_ids": [
+      "500125779",
+      "500064938",
+      "500062181",
+      "1488",
+      "500105268"
+    ]
+  },
+  "5f0494eb-f9e7-4bea-a95e-b853889e357a": {
+    "app_url": "https://app.shortcut.com/internal/team/5f0494eb-f9e7-4bea-a95e-b853889e357a",
+    "description": "hello friends!",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "archivetestgroup",
+    "name": "Archive test group",
+    "color_key": "red",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5f0494eb-f9e7-4bea-a95e-b853889e357a",
+    "display_icon": null,
+    "member_ids": [
+      "5be9d40a-38e9-4609-abbe-b99161d6fd64",
+      "5c2e58e2-6893-4d0f-907c-2009e2d9cfea",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4"
+    ],
+    "workflow_ids": []
+  },
+  "605b9fd2-0b36-4c09-a2d1-da1bce7be242": {
+    "app_url": "https://app.shortcut.com/internal/team/605b9fd2-0b36-4c09-a2d1-da1bce7be242",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "testteam",
+    "name": "testteam",
+    "color_key": "purple",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "605b9fd2-0b36-4c09-a2d1-da1bce7be242",
+    "display_icon": null,
+    "member_ids": [
+      "5cb4ac60-86fe-462b-8957-b1b03a6aa9f3"
+    ],
+    "workflow_ids": []
+  },
+  "61a9faba-8ac9-435e-a569-bf8772c95b8c": {
+    "app_url": "https://app.shortcut.com/internal/team/61a9faba-8ac9-435e-a569-bf8772c95b8c",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "test123",
+    "name": "Test Team",
+    "color_key": "yellow",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "61a9faba-8ac9-435e-a569-bf8772c95b8c",
+    "display_icon": null,
+    "member_ids": [
+      "5cb4ac60-86fe-462b-8957-b1b03a6aa9f3"
+    ],
+    "workflow_ids": [
+      "500116480",
+      "500091256",
+      "500114652",
+      "500101221",
+      "500060651",
+      "500058659",
+      "500105268",
+      "500059233"
+    ]
+  },
+  "5e39ba4b-bad8-45cf-9590-3515fd2b319d": {
+    "app_url": "https://app.shortcut.com/internal/team/5e39ba4b-bad8-45cf-9590-3515fd2b319d",
+    "description": "Testing Groups",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "osei-daniel",
+    "name": "Osei & Daniel",
+    "color_key": "blue",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e39ba4b-bad8-45cf-9590-3515fd2b319d",
+    "display_icon": null,
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": []
+  },
+  "5eea9c88-7ad6-40aa-a187-09dc36ac3872": {
+    "app_url": "https://app.shortcut.com/internal/team/5eea9c88-7ad6-40aa-a187-09dc36ac3872",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 5,
+    "mention_name": "key-workflows-squad",
+    "name": "Key Workflows Squad",
+    "color_key": "slate",
+    "num_stories": 694,
+    "num_epics_started": 0,
+    "id": "5eea9c88-7ad6-40aa-a187-09dc36ac3872",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5eeba1a9-6abb-49c6-93ee-b1f4baf004eb",
+      "created_at": "2020-06-18T17:17:29Z",
+      "updated_at": "2020-06-18T17:17:29Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5eeba1a9-6abb-49c6-93ee-b1f4baf004eb/thumb_Group%205.png"
+    },
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5f440fec-79c6-41f8-94fd-3dd8c4d78e6e",
+      "5bfc4404-1718-478c-a68d-f136229c69f2",
+      "610817bc-9b0d-48f4-9792-1528404fd00d",
+      "5e66601a-f85e-4635-9658-f15b2d3fe885",
+      "5b9ffb56-9ad9-412d-bca3-1683d32591c8",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4"
+    ],
+    "workflow_ids": [
+      "500062181",
+      "500017920",
+      "500064058",
+      "1488",
+      "500101221",
+      "500060651",
+      "500105268"
+    ]
+  },
+  "5fbe6af7-8921-468c-b8e4-e4c1ade4dba0": {
+    "app_url": "https://app.shortcut.com/internal/team/5fbe6af7-8921-468c-b8e4-e4c1ade4dba0",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "test",
+    "name": "test",
+    "color_key": "gray",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5fbe6af7-8921-468c-b8e4-e4c1ade4dba0",
+    "display_icon": null,
+    "member_ids": [],
+    "workflow_ids": []
+  },
+  "5ee38798-25d3-455a-a50f-d55756c3ed4e": {
+    "app_url": "https://app.shortcut.com/internal/team/5ee38798-25d3-455a-a50f-d55756c3ed4e",
+    "description": "Engineers at Shortcut",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 4,
+    "mention_name": "engineering",
+    "name": "Engineering",
+    "color_key": "slate",
+    "num_stories": 140,
+    "num_epics_started": 1,
+    "id": "5ee38798-25d3-455a-a50f-d55756c3ed4e",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5ee38750-215f-45b7-826a-4502d46ac27a",
+      "created_at": "2020-06-12T13:46:56Z",
+      "updated_at": "2020-06-12T13:46:56Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5ee38750-215f-45b7-826a-4502d46ac27a/thumb_Screen%20Shot%202020-06-12%20at%208.46.44%20AM.png"
+    },
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5c473fd4-c531-45c3-8203-c1798e99b030",
+      "61115b10-f222-4bfd-bead-116969920151",
+      "5be9d40a-38e9-4609-abbe-b99161d6fd64",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "5e1e1975-4508-4d0b-8631-240edd97e4f8",
+      "5e1e187a-c956-4855-a92c-92027f63044d",
+      "58b5e8a7-d943-4cee-a0da-fc07b1c932ad",
+      "5d239bc2-7318-4534-b02a-faaff8ddbeaa",
+      "5e66601a-f85e-4635-9658-f15b2d3fe885",
+      "62013c20-6544-49d5-99db-0e6416fad225",
+      "62264ef4-9ea5-402d-acae-7e1b51694a25",
+      "5c2e58e2-6893-4d0f-907c-2009e2d9cfea",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0",
+      "61483442-41ae-4f6b-a2f2-db53edb79963"
+    ],
+    "workflow_ids": [
+      "500018002",
+      "1488"
+    ]
+  },
+  "5dc1e611-475e-426c-99f5-322794a5f19e": {
+    "app_url": "https://app.shortcut.com/internal/team/5dc1e611-475e-426c-99f5-322794a5f19e",
+    "description": "group-1",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "archivedgroupname",
+    "name": "Archived Group",
+    "color_key": "black",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5dc1e611-475e-426c-99f5-322794a5f19e",
+    "display_icon": null,
+    "member_ids": [
+      "5be9d40a-38e9-4609-abbe-b99161d6fd64",
+      "5c869298-e422-4829-998f-21ec10c00b47"
+    ],
+    "workflow_ids": []
+  },
+  "5eb2d1d9-3c64-4ca3-96f3-93dd0f62f449": {
+    "app_url": "https://app.shortcut.com/internal/team/5eb2d1d9-3c64-4ca3-96f3-93dd0f62f449",
+    "description": "Members of the Platform Team",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "platform",
+    "name": "Platform",
+    "color_key": "gray",
+    "num_stories": 33,
+    "num_epics_started": 0,
+    "id": "5eb2d1d9-3c64-4ca3-96f3-93dd0f62f449",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "6000df02-150c-4945-8f67-79a0c4ed903c",
+      "created_at": "2021-01-15T00:17:06Z",
+      "updated_at": "2021-01-15T00:17:06Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/6000df02-150c-4945-8f67-79a0c4ed903c/thumb_Retro-Block-Question-icon.png"
+    },
+    "member_ids": [],
+    "workflow_ids": [
+      "1488",
+      "500105268"
+    ]
+  },
+  "5e348fce-db95-47a7-9c43-7c91f7c26053": {
+    "app_url": "https://app.shortcut.com/internal/team/5e348fce-db95-47a7-9c43-7c91f7c26053",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "segment-testing-group-creation",
+    "name": "Segment Testing for Group Creation",
+    "color_key": "blue",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e348fce-db95-47a7-9c43-7c91f7c26053",
+    "display_icon": null,
+    "member_ids": [],
+    "workflow_ids": []
+  },
+  "607f3cd0-5d71-4ba6-83f8-ab80d672e760": {
+    "app_url": "https://app.shortcut.com/internal/team/607f3cd0-5d71-4ba6-83f8-ab80d672e760",
+    "description": "",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 1,
+    "mention_name": "vcs",
+    "name": "VCS",
+    "color_key": "turquoise",
+    "num_stories": 35,
+    "num_epics_started": 1,
+    "id": "607f3cd0-5d71-4ba6-83f8-ab80d672e760",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "607f3d06-2158-45be-bc05-fe92130f9871",
+      "created_at": "2021-04-20T20:43:50Z",
+      "updated_at": "2021-04-20T20:43:50Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/607f3d06-2158-45be-bc05-fe92130f9871/thumb_git.jpeg"
+    },
+    "member_ids": [
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "6164a4cc-ea0d-4b2e-ac9a-71c4b0110956": {
+    "app_url": "https://app.shortcut.com/internal/team/6164a4cc-ea0d-4b2e-ac9a-71c4b0110956",
+    "description": "demo for the engineering working group",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "demo",
+    "name": "demo-team",
+    "color_key": "fuchsia",
+    "num_stories": 2,
+    "num_epics_started": 0,
+    "id": "6164a4cc-ea0d-4b2e-ac9a-71c4b0110956",
+    "display_icon": null,
+    "member_ids": [
+      "5e1e187a-c956-4855-a92c-92027f63044d"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "5e39baac-5511-4ea3-b0e4-f1406d8217c3": {
+    "app_url": "https://app.shortcut.com/internal/team/5e39baac-5511-4ea3-b0e4-f1406d8217c3",
+    "description": "Testing Groups",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "daniel-osei",
+    "name": "Daniel & Osei",
+    "color_key": "blue",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e39baac-5511-4ea3-b0e4-f1406d8217c3",
+    "display_icon": null,
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": []
+  },
+  "6149b5cd-7298-4da9-90dd-d1c585cb809a": {
+    "app_url": "https://app.shortcut.com/internal/team/6149b5cd-7298-4da9-90dd-d1c585cb809a",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "testeam",
+    "name": "Test Team",
+    "color_key": "blue",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "6149b5cd-7298-4da9-90dd-d1c585cb809a",
+    "display_icon": null,
+    "member_ids": [],
+    "workflow_ids": [
+      "500105268"
+    ]
+  },
+  "61d4a6a7-2efc-4c34-b411-bf697e62ca97": {
+    "app_url": "https://app.shortcut.com/internal/team/61d4a6a7-2efc-4c34-b411-bf697e62ca97",
+    "description": "This is not a team, but it's not not one either.",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 1,
+    "mention_name": "billing",
+    "name": "Billing",
+    "color_key": "green",
+    "num_stories": 113,
+    "num_epics_started": 4,
+    "id": "61d4a6a7-2efc-4c34-b411-bf697e62ca97",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "623b012c-bb22-4c67-9116-239a5dd27359",
+      "created_at": "2022-03-23T11:14:52Z",
+      "updated_at": "2022-03-23T11:14:52Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/623b012c-bb22-4c67-9116-239a5dd27359/thumb_money.jpg"
+    },
+    "member_ids": [
+      "61f7f3d1-407b-4007-8e3c-4d8801eaeebd",
+      "6209f217-c73d-457b-99e2-36e87f7c3544",
+      "5f7b7a20-00ac-449d-b952-87a90ce557cc",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "5ef0cd32-eb65-46a0-8ef4-69a1c8987a13": {
+    "app_url": "https://app.shortcut.com/internal/team/5ef0cd32-eb65-46a0-8ef4-69a1c8987a13",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "monetization-squad",
+    "name": "Monetization Squad",
+    "color_key": "green",
+    "num_stories": 705,
+    "num_epics_started": 1,
+    "id": "5ef0cd32-eb65-46a0-8ef4-69a1c8987a13",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5f74d861-5a70-4593-82f3-d29b576d26dd",
+      "created_at": "2020-09-30T19:11:29Z",
+      "updated_at": "2020-09-30T19:11:29Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5f74d861-5a70-4593-82f3-d29b576d26dd/thumb_money-icon.png"
+    },
+    "member_ids": [
+      "5cd996cd-f8c3-487b-bfdd-53546e59d615",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "5e1e187a-c956-4855-a92c-92027f63044d",
+      "5e835908-9d49-43e4-b21e-4c047f519257",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": [
+      "500064938",
+      "500017920",
+      "500064058",
+      "1488",
+      "500101221"
+    ]
+  },
+  "5e31f568-9de3-414a-b56f-b50f2476bb40": {
+    "app_url": "https://app.shortcut.com/internal/team/5e31f568-9de3-414a-b56f-b50f2476bb40",
+    "description": "Everyone on the Support, Success & Account Management teams",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "cx",
+    "name": "CX",
+    "color_key": "blue",
+    "num_stories": 10,
+    "num_epics_started": 0,
+    "id": "5e31f568-9de3-414a-b56f-b50f2476bb40",
+    "display_icon": null,
+    "member_ids": [
+      "6090519c-60ab-4c42-ab4d-7f49735d63c1",
+      "5d5af326-3059-42ab-b7c7-62676c64408a"
+    ],
+    "workflow_ids": [
+      "500064938",
+      "500062181",
+      "500064058",
+      "1488"
+    ]
+  },
+  "5e7a0b89-8018-43b9-b7ef-30d6b671ec04": {
+    "app_url": "https://app.shortcut.com/internal/team/5e7a0b89-8018-43b9-b7ef-30d6b671ec04",
+    "description": "All Backend engineers across squads.",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "backend",
+    "name": "Backend Engineering",
+    "color_key": "turquoise",
+    "num_stories": 39,
+    "num_epics_started": 1,
+    "id": "5e7a0b89-8018-43b9-b7ef-30d6b671ec04",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5f7f45e5-6f44-4ad4-8552-5e542113b2cc",
+      "created_at": "2020-10-08T17:01:25Z",
+      "updated_at": "2020-10-08T17:01:25Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5f7f45e5-6f44-4ad4-8552-5e542113b2cc/thumb_302-3029474_server-icon-download-icons-server-icon-png-white.png"
+    },
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5e6659c1-48fa-41ee-a075-c9aa121a1b8e",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "58b5e8a7-d943-4cee-a0da-fc07b1c932ad",
+      "60b6a12f-9f3e-4498-af30-74ab02dc8076",
+      "610817bc-9b0d-48f4-9792-1528404fd00d",
+      "5d239bc2-7318-4534-b02a-faaff8ddbeaa",
+      "5e66601a-f85e-4635-9658-f15b2d3fe885",
+      "62264ef4-9ea5-402d-acae-7e1b51694a25",
+      "5c2e58e2-6893-4d0f-907c-2009e2d9cfea",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0",
+      "61483442-41ae-4f6b-a2f2-db53edb79963"
+    ],
+    "workflow_ids": [
+      "1488",
+      "500105268"
+    ]
+  },
+  "5ef2474c-e025-4468-8bde-075498451bc1": {
+    "app_url": "https://app.shortcut.com/internal/team/5ef2474c-e025-4468-8bde-075498451bc1",
+    "description": "Folks on the Customer Success team ",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 11,
+    "mention_name": "success",
+    "name": "Customer Success",
+    "color_key": "turquoise",
+    "num_stories": 61,
+    "num_epics_started": 9,
+    "id": "5ef2474c-e025-4468-8bde-075498451bc1",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "623dc93e-31ff-4f16-8d29-0b966d1f65c4",
+      "created_at": "2022-03-25T13:53:02Z",
+      "updated_at": "2022-03-25T13:53:02Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/623dc93e-31ff-4f16-8d29-0b966d1f65c4/thumb_dot-clever.png"
+    },
+    "member_ids": [
+      "61c029eb-cabc-40e9-b18e-17a0b4def3a4",
+      "622f66b1-3c6e-44af-840e-2be82982c0ae"
+    ],
+    "workflow_ids": [
+      "500128868",
+      "1488"
+    ]
+  },
+  "5e2f3b65-8f38-446a-aa43-1cfab94eb7da": {
+    "app_url": "https://app.shortcut.com/internal/team/5e2f3b65-8f38-446a-aa43-1cfab94eb7da",
+    "description": "A description for the group\n\n- Archiving this because it's a duplicate",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "previousmentionname",
+    "name": "Previous E&R squad",
+    "color_key": "yellow",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e2f3b65-8f38-446a-aa43-1cfab94eb7da",
+    "display_icon": null,
+    "member_ids": [
+      "5c61daa8-793e-48e9-8aa2-27c3832e6c32",
+      "5c869298-e422-4829-998f-21ec10c00b47"
+    ],
+    "workflow_ids": []
+  },
+  "5e3874bd-bc15-40ab-b91c-34c35efff443": {
+    "app_url": "https://app.shortcut.com/internal/team/5e3874bd-bc15-40ab-b91c-34c35efff443",
+    "description": "This. Is. Marketing.",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 19,
+    "mention_name": "marketing",
+    "name": "Marketing",
+    "color_key": "blue",
+    "num_stories": 771,
+    "num_epics_started": 10,
+    "id": "5e3874bd-bc15-40ab-b91c-34c35efff443",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "60d1b990-ecc1-451d-9d57-1f7fb120119b",
+      "created_at": "2021-06-22T10:21:04Z",
+      "updated_at": "2021-06-22T10:21:04Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/60d1b990-ecc1-451d-9d57-1f7fb120119b/thumb_dot_stars.png"
+    },
+    "member_ids": [
+      "621c6e2d-aa61-4918-9334-704200cbfa21",
+      "5cd996cd-f8c3-487b-bfdd-53546e59d615",
+      "5c61daa8-793e-48e9-8aa2-27c3832e6c32",
+      "60901b6f-3fc6-448f-bc18-45d800c30b0f",
+      "6092a61b-fd23-4f8a-a4dd-73ed8a063b7d",
+      "5e1e1975-4508-4d0b-8631-240edd97e4f8",
+      "61b99225-78c0-48e6-b27f-8f7b80e4e5c7",
+      "625d0e18-7795-4fa3-b346-113ca7eb9c8b",
+      "5e31c922-f6db-4a0a-b9bf-90c507194156",
+      "61ee5008-4298-43c1-b132-df16eb8d7d53",
+      "5b9ffb56-9ad9-412d-bca3-1683d32591c8",
+      "5fc5298e-d7c3-4f94-99af-71b858870dea",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": [
+      "500116480",
+      "500131183",
+      "500121393",
+      "500062181",
+      "500017920",
+      "1488",
+      "500060651",
+      "500105268"
+    ]
+  },
+  "611a9d87-55a5-4640-826f-13b42b1b78b8": {
+    "app_url": "https://app.shortcut.com/internal/team/611a9d87-55a5-4640-826f-13b42b1b78b8",
+    "description": "",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 21,
+    "mention_name": "build-core-product",
+    "name": "Build: Core Product",
+    "color_key": "sky-blue",
+    "num_stories": 1087,
+    "num_epics_started": 13,
+    "id": "611a9d87-55a5-4640-826f-13b42b1b78b8",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "611aa2b1-0b88-42e3-982e-b5bd947b5791",
+      "created_at": "2021-08-16T17:38:57Z",
+      "updated_at": "2021-08-16T17:38:57Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/611aa2b1-0b88-42e3-982e-b5bd947b5791/thumb_build_logo.png"
+    },
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "622ee407-37b6-4525-beb3-43e990d7b92a",
+      "5f440fec-79c6-41f8-94fd-3dd8c4d78e6e",
+      "61f7f3d1-407b-4007-8e3c-4d8801eaeebd",
+      "6058b825-19f7-4704-827e-70e60a6403b8",
+      "626f82b1-71fa-4d62-81fc-f0e7f31ee5af",
+      "610817bc-9b0d-48f4-9792-1528404fd00d",
+      "5e66601a-f85e-4635-9658-f15b2d3fe885",
+      "6237e279-d9a6-463b-a1b7-2ae29fb6b100",
+      "613b78da-ed91-4419-9835-3493ac22995c",
+      "5b9ffb56-9ad9-412d-bca3-1683d32591c8",
+      "60dde3d3-e3ac-47f1-83b5-fb661a350414"
+    ],
+    "workflow_ids": [
+      "1488",
+      "500060651"
+    ]
+  },
+  "61a66150-b62a-4d9d-a4dd-3ff02c7ad171": {
+    "app_url": "https://app.shortcut.com/internal/team/61a66150-b62a-4d9d-a4dd-3ff02c7ad171",
+    "description": "https://bytecode.io/\nData Team's Consultant Group",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 21,
+    "mention_name": "bytecode",
+    "name": "Bytecode",
+    "color_key": "orange",
+    "num_stories": 280,
+    "num_epics_started": 3,
+    "id": "61a66150-b62a-4d9d-a4dd-3ff02c7ad171",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "622baaac-84d8-4a4d-9aab-8b3420a78b74",
+      "created_at": "2022-03-11T20:01:48Z",
+      "updated_at": "2022-03-11T20:01:48Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/622baaac-84d8-4a4d-9aab-8b3420a78b74/thumb_Screen%20Shot%202022-03-11%20at%202.01.29%20PM.png"
+    },
+    "member_ids": [
+      "60edab29-0583-430b-9a2b-63a9f1ee2b49",
+      "61cdfb42-f09b-4068-b118-97720e6bfe62",
+      "624b270c-f148-4aba-85b4-722f2d88c0cd",
+      "624b6d13-6b76-4623-9cbb-16096b91100e",
+      "62151ffc-2785-433e-a786-1fdb5b72796d",
+      "61cdfb43-2766-4eca-8375-1bd212a3f809",
+      "61f8314a-c043-460f-b98e-cfd666b1bc8c"
+    ],
+    "workflow_ids": [
+      "500118071",
+      "500128211",
+      "500128200"
+    ]
+  },
+  "614086d9-d55c-4bc4-be6d-969c4a994ce5": {
+    "app_url": "https://app.shortcut.com/internal/team/614086d9-d55c-4bc4-be6d-969c4a994ce5",
+    "description": "",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "qa",
+    "name": "QA",
+    "color_key": "green",
+    "num_stories": 19,
+    "num_epics_started": 0,
+    "id": "614086d9-d55c-4bc4-be6d-969c4a994ce5",
+    "display_icon": null,
+    "member_ids": [
+      "5bec444c-0959-4822-9e3c-3e1eddec771c",
+      "5f7b7a20-00ac-449d-b952-87a90ce557cc"
+    ],
+    "workflow_ids": [
+      "500121016",
+      "1488"
+    ]
+  },
+  "5e3976e3-c8a2-4151-aebe-083d8a4410b7": {
+    "app_url": "https://app.shortcut.com/internal/team/5e3976e3-c8a2-4151-aebe-083d8a4410b7",
+    "description": "Testing Groups yet more",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "daniel-toby",
+    "name": "Daniel & Toby",
+    "color_key": "blue",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e3976e3-c8a2-4151-aebe-083d8a4410b7",
+    "display_icon": null,
+    "member_ids": [
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": []
+  },
+  "5e3c5a24-63b3-4dd7-8813-25e175274a30": {
+    "app_url": "https://app.shortcut.com/internal/team/5e3c5a24-63b3-4dd7-8813-25e175274a30",
+    "description": "Old archived team for Write work.",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "write-stuff-archived",
+    "name": "The Write Stuff",
+    "color_key": "purple",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e3c5a24-63b3-4dd7-8813-25e175274a30",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5e8227f7-1e1c-42e3-85e0-7f8354a6f61c",
+      "created_at": "2020-03-30T17:10:15Z",
+      "updated_at": "2020-03-30T17:10:15Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5e8227f7-1e1c-42e3-85e0-7f8354a6f61c/thumb_Frame%201@2x.png"
+    },
+    "member_ids": [
+      "5cb4ac60-86fe-462b-8957-b1b03a6aa9f3",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "5bfc4404-1718-478c-a68d-f136229c69f2",
+      "5e66601a-f85e-4635-9658-f15b2d3fe885",
+      "5b9ffb56-9ad9-412d-bca3-1683d32591c8",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4",
+      "61483442-41ae-4f6b-a2f2-db53edb79963"
+    ],
+    "workflow_ids": [
+      "500116480",
+      "1488"
+    ]
+  },
+  "5e3873ca-4a92-4a80-8116-5c049311d214": {
+    "app_url": "https://app.shortcut.com/internal/team/5e3873ca-4a92-4a80-8116-5c049311d214",
+    "description": "People who design",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 5,
+    "mention_name": "design",
+    "name": "Designers",
+    "color_key": "blue",
+    "num_stories": 68,
+    "num_epics_started": 2,
+    "id": "5e3873ca-4a92-4a80-8116-5c049311d214",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "60c25fd7-248a-4243-8d89-12706544a20f",
+      "created_at": "2021-06-10T18:54:15Z",
+      "updated_at": "2021-06-10T18:54:15Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/60c25fd7-248a-4243-8d89-12706544a20f/thumb_squeezy-dot.png"
+    },
+    "member_ids": [
+      "5cb4ac60-86fe-462b-8957-b1b03a6aa9f3",
+      "61b07c59-fd8e-4bb4-9032-13b983c03c27",
+      "5c61daa8-793e-48e9-8aa2-27c3832e6c32",
+      "60a0a725-91b7-4b87-987b-b764be014e67",
+      "625d0e18-7795-4fa3-b346-113ca7eb9c8b",
+      "6058b825-19f7-4704-827e-70e60a6403b8",
+      "621c6e2d-df23-4ee5-b464-2e9dfa0522a1",
+      "625d0e15-ea68-4fab-a5c7-2ee27b3e89a8",
+      "6022bc9e-0e27-40c8-81eb-24feca4c39ce"
+    ],
+    "workflow_ids": [
+      "500116480",
+      "1488",
+      "500060651",
+      "500105268"
+    ]
+  },
+  "5e45552d-359c-4d7c-b707-20c51b9269ca": {
+    "app_url": "https://app.shortcut.com/internal/team/5e45552d-359c-4d7c-b707-20c51b9269ca",
+    "description": "The Frontend Engineering team.",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 1,
+    "mention_name": "frontend",
+    "name": "Frontend Engineering",
+    "color_key": "sky-blue",
+    "num_stories": 17,
+    "num_epics_started": 2,
+    "id": "5e45552d-359c-4d7c-b707-20c51b9269ca",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5e4554eb-70b1-4902-8456-31fad0044ed9",
+      "created_at": "2020-02-13T13:53:47Z",
+      "updated_at": "2020-02-13T13:53:47Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5e4554eb-70b1-4902-8456-31fad0044ed9/thumb_js.png"
+    },
+    "member_ids": [
+      "61115b10-f222-4bfd-bead-116969920151",
+      "5be9d40a-38e9-4609-abbe-b99161d6fd64",
+      "5e1e187a-c956-4855-a92c-92027f63044d",
+      "61483442-41ae-4f6b-a2f2-db53edb79963"
+    ],
+    "workflow_ids": [
+      "500118071",
+      "1488"
+    ]
+  },
+  "6217e902-444d-4023-adea-fa0b4cfee9e1": {
+    "app_url": "https://app.shortcut.com/internal/team/6217e902-444d-4023-adea-fa0b4cfee9e1",
+    "description": "",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "automations",
+    "name": "Automations",
+    "color_key": "turquoise",
+    "num_stories": 28,
+    "num_epics_started": 1,
+    "id": "6217e902-444d-4023-adea-fa0b4cfee9e1",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "6217e8fe-a33c-4fd9-8aef-884917800139",
+      "created_at": "2022-02-24T20:22:22Z",
+      "updated_at": "2022-02-24T20:22:22Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/6217e8fe-a33c-4fd9-8aef-884917800139/thumb_automat.jpeg"
+    },
+    "member_ids": [
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "5e309101-8551-4606-b387-aef12076db32": {
+    "app_url": "https://app.shortcut.com/internal/team/5e309101-8551-4606-b387-aef12076db32",
+    "description": "Meeting notes: https://app.clubhouse.io/internal/write/RG9jOiN1dWlkICI1Y2UyYjJhZS05YzYxLTQ5MGItYmY4Yy0wNmE4MjQ2ZmEzMDMi",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "mobile-squad",
+    "name": "Mobile Squad",
+    "color_key": "blue",
+    "num_stories": 23,
+    "num_epics_started": 0,
+    "id": "5e309101-8551-4606-b387-aef12076db32",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5e85f8d0-537a-437a-8b4b-5982329e042d",
+      "created_at": "2020-04-02T14:38:08Z",
+      "updated_at": "2020-04-02T14:38:08Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5e85f8d0-537a-437a-8b4b-5982329e042d/thumb_download.jpeg"
+    },
+    "member_ids": [
+      "5c473fd4-c531-45c3-8203-c1798e99b030"
+    ],
+    "workflow_ids": [
+      "500018002",
+      "1488",
+      "500105268"
+    ]
+  },
+  "61aa2bdc-3880-47ec-8e48-9e9f9938a806": {
+    "app_url": "https://app.shortcut.com/internal/team/61aa2bdc-3880-47ec-8e48-9e9f9938a806",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "test1234",
+    "name": "Test Team",
+    "color_key": "brass",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "61aa2bdc-3880-47ec-8e48-9e9f9938a806",
+    "display_icon": null,
+    "member_ids": [
+      "5cb4ac60-86fe-462b-8957-b1b03a6aa9f3"
+    ],
+    "workflow_ids": [
+      "500064058"
+    ]
+  },
+  "613f8543-0168-44c7-acf8-85d66928a520": {
+    "app_url": "https://app.shortcut.com/internal/team/613f8543-0168-44c7-acf8-85d66928a520",
+    "description": "",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 38,
+    "mention_name": "creative",
+    "name": "Creative",
+    "color_key": "blue",
+    "num_stories": 263,
+    "num_epics_started": 2,
+    "id": "613f8543-0168-44c7-acf8-85d66928a520",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "613f875e-eb64-4e94-922d-892df13f4127",
+      "created_at": "2021-09-13T17:16:14Z",
+      "updated_at": "2021-09-13T17:16:14Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/613f875e-eb64-4e94-922d-892df13f4127/thumb_Dot-space-01.png"
+    },
+    "member_ids": [
+      "5cd996cd-f8c3-487b-bfdd-53546e59d615",
+      "5c61daa8-793e-48e9-8aa2-27c3832e6c32",
+      "5e31c922-f6db-4a0a-b9bf-90c507194156",
+      "612d1d9b-94fa-4c05-b4ef-c1559d8d3524",
+      "5fc5298e-d7c3-4f94-99af-71b858870dea",
+      "612d014d-2e65-4932-882e-6e2a203ee5d4"
+    ],
+    "workflow_ids": [
+      "500113656",
+      "500131183",
+      "500121393",
+      "500017920"
+    ]
+  },
+  "5eea5067-c24f-49d0-9e71-092f4ddc273e": {
+    "app_url": "https://app.shortcut.com/internal/team/5eea5067-c24f-49d0-9e71-092f4ddc273e",
+    "description": "Executive Team",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "execs",
+    "name": "Executives",
+    "color_key": "slate",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5eea5067-c24f-49d0-9e71-092f4ddc273e",
+    "display_icon": null,
+    "member_ids": [
+      "5cd996cd-f8c3-487b-bfdd-53546e59d615",
+      "56d8a82b-088c-4333-9e39-c4746699776f",
+      "62415457-46b7-475c-aa83-acf17f12f08b",
+      "6058bcea-917b-4c26-b38e-b1ef2768d062",
+      "5f2d992d-58fb-4545-b47f-10439b58c35b"
+    ],
+    "workflow_ids": [
+      "500064938"
+    ]
+  },
+  "5f9c1fc0-bcbd-405b-9a41-5aa61290b3df": {
+    "app_url": "https://app.shortcut.com/internal/team/5f9c1fc0-bcbd-405b-9a41-5aa61290b3df",
+    "description": "hello",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "notification_group",
+    "name": "Joey test group for notifications",
+    "color_key": "midnight-blue",
+    "num_stories": 1,
+    "num_epics_started": 0,
+    "id": "5f9c1fc0-bcbd-405b-9a41-5aa61290b3df",
+    "display_icon": null,
+    "member_ids": [
+      "5c2e58e2-6893-4d0f-907c-2009e2d9cfea"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "602683f4-ae62-454a-8c68-5ee4e1f39432": {
+    "app_url": "https://app.shortcut.com/internal/team/602683f4-ae62-454a-8c68-5ee4e1f39432",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "fes-squad",
+    "name": "FES Squad",
+    "color_key": "yellow",
+    "num_stories": 20,
+    "num_epics_started": 0,
+    "id": "602683f4-ae62-454a-8c68-5ee4e1f39432",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "60268428-3fee-45f2-a926-37ce93982259",
+      "created_at": "2021-02-12T13:35:36Z",
+      "updated_at": "2021-02-12T13:35:36Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/60268428-3fee-45f2-a926-37ce93982259/thumb_BobSavestheHedgehogs105.png"
+    },
+    "member_ids": [
+      "5c473fd4-c531-45c3-8203-c1798e99b030"
+    ],
+    "workflow_ids": [
+      "500017920",
+      "500018002",
+      "1488"
+    ]
+  },
+  "607704fc-c352-45bb-b618-99b1eb93d8c6": {
+    "app_url": "https://app.shortcut.com/internal/team/607704fc-c352-45bb-b618-99b1eb93d8c6",
+    "description": "All things Data! From engineering to analysis.",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 24,
+    "mention_name": "data",
+    "name": "Data",
+    "color_key": "turquoise",
+    "num_stories": 398,
+    "num_epics_started": 3,
+    "id": "607704fc-c352-45bb-b618-99b1eb93d8c6",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "60e49f04-840f-40e9-9b7a-824ca4dd8b99",
+      "created_at": "2021-07-06T18:20:52Z",
+      "updated_at": "2021-07-06T18:20:52Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/60e49f04-840f-40e9-9b7a-824ca4dd8b99/thumb_png-transparent-computer-icons-business-management-analytics-icon-angle-computer-team.png"
+    },
+    "member_ids": [
+      "5ffc7ddb-9185-45d5-af7b-dd341cc5fdf3",
+      "62151ffc-2785-433e-a786-1fdb5b72796d"
+    ],
+    "workflow_ids": [
+      "500118071",
+      "500128211",
+      "500128200",
+      "1488"
+    ]
+  },
+  "5ef3b1b2-322b-473d-8d37-f507a482bad3": {
+    "app_url": "https://app.shortcut.com/internal/team/5ef3b1b2-322b-473d-8d37-f507a482bad3",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "tech-leads",
+    "name": "Tech Leads",
+    "color_key": "brass",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5ef3b1b2-322b-473d-8d37-f507a482bad3",
+    "display_icon": null,
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "58b5e8a7-d943-4cee-a0da-fc07b1c932ad",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": []
+  },
+  "5ee8c890-ce10-44a5-b84b-3b0bf978c4e2": {
+    "app_url": "https://app.shortcut.com/internal/team/5ee8c890-ce10-44a5-b84b-3b0bf978c4e2",
+    "description": "\"Somehow I Manage\" by Michael Scott",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "ems",
+    "name": "Engineering Managers",
+    "color_key": "slate",
+    "num_stories": 17,
+    "num_epics_started": 0,
+    "id": "5ee8c890-ce10-44a5-b84b-3b0bf978c4e2",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "62752e5b-e7b1-4392-a161-ccab0c9f6f07",
+      "created_at": "2022-05-06T14:19:07Z",
+      "updated_at": "2022-05-06T14:19:07Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/62752e5b-e7b1-4392-a161-ccab0c9f6f07/thumb_engineering-managers.jpg"
+    },
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "621c6e2d-aa61-4918-9334-704200cbfa21",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0",
+      "61483442-41ae-4f6b-a2f2-db53edb79963"
+    ],
+    "workflow_ids": [
+      "500064938"
+    ]
+  },
+  "62a1669a-a7b9-464d-a0a4-86f409f30542": {
+    "app_url": "https://app.shortcut.com/internal/team/62a1669a-a7b9-464d-a0a4-86f409f30542",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "ntwf",
+    "name": "New team no workflow",
+    "color_key": "slate",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "62a1669a-a7b9-464d-a0a4-86f409f30542",
+    "display_icon": null,
+    "member_ids": [
+      "5f440fec-79c6-41f8-94fd-3dd8c4d78e6e"
+    ],
+    "workflow_ids": [
+      "500131183"
+    ]
+  },
+  "5e330b96-ac5f-44b1-9c7e-a034627c81c8": {
+    "app_url": "https://app.shortcut.com/internal/team/5e330b96-ac5f-44b1-9c7e-a034627c81c8",
+    "description": "#Acquisition squad",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "acquisition",
+    "name": "Acquisition Squad",
+    "color_key": "blue",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e330b96-ac5f-44b1-9c7e-a034627c81c8",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5e38cdeb-cfe0-452e-b096-ae1ca9942a28",
+      "created_at": "2020-02-04T01:50:35Z",
+      "updated_at": "2020-02-04T01:50:35Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5e38cdeb-cfe0-452e-b096-ae1ca9942a28/thumb_Screenshot%20at%20Feb%2003%2014-57-09.png"
+    },
+    "member_ids": [
+      "5cd996cd-f8c3-487b-bfdd-53546e59d615",
+      "5c61daa8-793e-48e9-8aa2-27c3832e6c32",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "5e1e187a-c956-4855-a92c-92027f63044d",
+      "5d239bc2-7318-4534-b02a-faaff8ddbeaa"
+    ],
+    "workflow_ids": []
+  },
+  "5e39765f-7fcd-4456-8796-34516f9e2aa3": {
+    "app_url": "https://app.shortcut.com/internal/team/5e39765f-7fcd-4456-8796-34516f9e2aa3",
+    "description": "Testing Groups",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "toby-daniel",
+    "name": "Toby & Daniel",
+    "color_key": "blue",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e39765f-7fcd-4456-8796-34516f9e2aa3",
+    "display_icon": null,
+    "member_ids": [],
+    "workflow_ids": []
+  },
+  "5fb40980-bf95-4f82-98b6-84570cb26d48": {
+    "app_url": "https://app.shortcut.com/internal/team/5fb40980-bf95-4f82-98b6-84570cb26d48",
+    "description": "Sustainability And Platform Squad (S&P)",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 15,
+    "mention_name": "sp-squad",
+    "name": "Sustainability and Platform",
+    "color_key": "gray",
+    "num_stories": 951,
+    "num_epics_started": 19,
+    "id": "5fb40980-bf95-4f82-98b6-84570cb26d48",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "609e78ad-b1d5-4ca0-b026-d72a16ee77a9",
+      "created_at": "2021-05-14T13:18:37Z",
+      "updated_at": "2021-05-14T13:18:37Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/609e78ad-b1d5-4ca0-b026-d72a16ee77a9/thumb_dike.png"
+    },
+    "member_ids": [
+      "5e6659c1-48fa-41ee-a075-c9aa121a1b8e",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "58b5e8a7-d943-4cee-a0da-fc07b1c932ad",
+      "60b6a12f-9f3e-4498-af30-74ab02dc8076",
+      "5d239bc2-7318-4534-b02a-faaff8ddbeaa",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": [
+      "500064938",
+      "500128200",
+      "1488"
+    ]
+  },
+  "5e39bb47-6f72-444d-aaa7-aa1625e71bc8": {
+    "app_url": "https://app.shortcut.com/internal/team/5e39bb47-6f72-444d-aaa7-aa1625e71bc8",
+    "description": "Testing Groups",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "toby-osei-daniel",
+    "name": "Toby, Osei, & Daniel",
+    "color_key": "blue",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e39bb47-6f72-444d-aaa7-aa1625e71bc8",
+    "display_icon": null,
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": []
+  },
+  "618e84a5-e871-4e59-916a-223c0709748f": {
+    "app_url": "https://app.shortcut.com/internal/team/618e84a5-e871-4e59-916a-223c0709748f",
+    "description": "Migration to Apollo/GraphQL data layer strategy.",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 5,
+    "mention_name": "data-layer",
+    "name": "Data Layer",
+    "color_key": "black",
+    "num_stories": 330,
+    "num_epics_started": 5,
+    "id": "618e84a5-e871-4e59-916a-223c0709748f",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "61926752-99c5-4983-905e-cc6e858d1824",
+      "created_at": "2021-11-15T13:57:38Z",
+      "updated_at": "2021-11-15T13:57:38Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/61926752-99c5-4983-905e-cc6e858d1824/thumb_Screen%20Shot%202021-11-15%20at%208.57.24%20AM.png"
+    },
+    "member_ids": [
+      "61115b10-f222-4bfd-bead-116969920151",
+      "5be9d40a-38e9-4609-abbe-b99161d6fd64",
+      "61adc5f7-3200-42af-889b-9dd238cc83c9",
+      "5d239bc2-7318-4534-b02a-faaff8ddbeaa",
+      "5c2e58e2-6893-4d0f-907c-2009e2d9cfea",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "62717dbe-a6e2-476f-98d8-77423f76f24e": {
+    "app_url": "https://app.shortcut.com/internal/team/62717dbe-a6e2-476f-98d8-77423f76f24e",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "mike-is-so-cool",
+    "name": "mikes-cool-stuff",
+    "color_key": "red",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "62717dbe-a6e2-476f-98d8-77423f76f24e",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "62717da7-3c75-4c69-921c-e5d5352bcbfb",
+      "created_at": "2022-05-03T19:08:23Z",
+      "updated_at": "2022-05-03T19:08:23Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/62717da7-3c75-4c69-921c-e5d5352bcbfb/nyancat.gif"
+    },
+    "member_ids": [
+      "616d75bd-5841-41b4-8372-6a399953c437"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "62020248-9f44-495d-a786-8108be89f9d7": {
+    "app_url": "https://app.shortcut.com/internal/team/62020248-9f44-495d-a786-8108be89f9d7",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "cx-team",
+    "name": "CX Team",
+    "color_key": "purple",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "62020248-9f44-495d-a786-8108be89f9d7",
+    "display_icon": null,
+    "member_ids": [
+      "60d22716-c175-4650-9488-085f9c745c9a"
+    ],
+    "workflow_ids": [
+      "500064058"
+    ]
+  },
+  "625889a0-525e-415a-b436-29e33c1c678c": {
+    "app_url": "https://app.shortcut.com/internal/team/625889a0-525e-415a-b436-29e33c1c678c",
+    "description": "",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "analysis",
+    "name": "Data Analytics",
+    "color_key": "turquoise",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "625889a0-525e-415a-b436-29e33c1c678c",
+    "display_icon": null,
+    "member_ids": [
+      "62151ffc-2785-433e-a786-1fdb5b72796d"
+    ],
+    "workflow_ids": [
+      "500128211",
+      "500128200"
+    ]
+  },
+  "5e39bc39-b8f0-499b-abd8-fc06043f48a9": {
+    "app_url": "https://app.shortcut.com/internal/team/5e39bc39-b8f0-499b-abd8-fc06043f48a9",
+    "description": "Testing Groups",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "testing-daniel",
+    "name": "Testing Daniel",
+    "color_key": "blue",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e39bc39-b8f0-499b-abd8-fc06043f48a9",
+    "display_icon": null,
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": []
+  },
+  "606b3598-c83e-4474-b820-a974eaecc966": {
+    "app_url": "https://app.shortcut.com/internal/team/606b3598-c83e-4474-b820-a974eaecc966",
+    "description": "making us money!",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 10,
+    "mention_name": "finance",
+    "name": "Finance",
+    "color_key": "fuchsia",
+    "num_stories": 26,
+    "num_epics_started": 0,
+    "id": "606b3598-c83e-4474-b820-a974eaecc966",
+    "display_icon": null,
+    "member_ids": [
+      "5f2d992d-58fb-4545-b47f-10439b58c35b",
+      "5dee7137-d02d-4740-b508-5bdb4e2f33e4"
+    ],
+    "workflow_ids": [
+      "500113656"
+    ]
+  },
+  "608988ef-186e-499b-b167-09f72153b646": {
+    "app_url": "https://app.shortcut.com/internal/team/608988ef-186e-499b-b167-09f72153b646",
+    "description": "Research",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 1,
+    "mention_name": "research",
+    "name": "Research",
+    "color_key": "pink",
+    "num_stories": 6,
+    "num_epics_started": 1,
+    "id": "608988ef-186e-499b-b167-09f72153b646",
+    "display_icon": null,
+    "member_ids": [
+      "6022bc9e-0e27-40c8-81eb-24feca4c39ce"
+    ],
+    "workflow_ids": [
+      "500118071",
+      "1488",
+      "500060651"
+    ]
+  },
+  "5eeba3a9-8db9-40de-931e-08b852691a82": {
+    "app_url": "https://app.shortcut.com/internal/team/5eeba3a9-8db9-40de-931e-08b852691a82",
+    "description": "UX Platform Squad.",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 49,
+    "mention_name": "uxp-squad",
+    "name": "UXP Squad",
+    "color_key": "purple",
+    "num_stories": 1829,
+    "num_epics_started": 20,
+    "id": "5eeba3a9-8db9-40de-931e-08b852691a82",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "6230bf6b-31e5-47a0-a409-77862dc68f59",
+      "created_at": "2022-03-15T16:31:39Z",
+      "updated_at": "2022-03-15T16:31:39Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/6230bf6b-31e5-47a0-a409-77862dc68f59/thumb_shapes.png"
+    },
+    "member_ids": [
+      "5c473fd4-c531-45c3-8203-c1798e99b030",
+      "5cb4ac60-86fe-462b-8957-b1b03a6aa9f3",
+      "61115b10-f222-4bfd-bead-116969920151",
+      "5be9d40a-38e9-4609-abbe-b99161d6fd64",
+      "61b07c59-fd8e-4bb4-9032-13b983c03c27",
+      "5f68a482-7bb8-4711-95f5-d89206fbe861",
+      "6295a0e0-7a2f-4145-b251-e5964df31925",
+      "5bfc4404-1718-478c-a68d-f136229c69f2",
+      "61adc5f7-3200-42af-889b-9dd238cc83c9",
+      "6033e588-704b-4ef5-aaf8-27710967cc7b",
+      "5c2e58e2-6893-4d0f-907c-2009e2d9cfea",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4",
+      "61483442-41ae-4f6b-a2f2-db53edb79963"
+    ],
+    "workflow_ids": [
+      "500116480",
+      "500064938",
+      "500062181",
+      "500017920",
+      "500018002",
+      "500064058",
+      "1488",
+      "500105268"
+    ]
+  },
+  "5f5a4d77-7d50-4dbc-b8e1-402a3c61de71": {
+    "app_url": "https://app.shortcut.com/internal/team/5f5a4d77-7d50-4dbc-b8e1-402a3c61de71",
+    "description": "Use when you want to notify the whole PM team of an issue.",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "pms",
+    "name": "Product",
+    "color_key": "purple",
+    "num_stories": 1,
+    "num_epics_started": 0,
+    "id": "5f5a4d77-7d50-4dbc-b8e1-402a3c61de71",
+    "display_icon": null,
+    "member_ids": [
+      "62415457-46b7-475c-aa83-acf17f12f08b",
+      "5f440fec-79c6-41f8-94fd-3dd8c4d78e6e",
+      "61b99225-78c0-48e6-b27f-8f7b80e4e5c7",
+      "5bfc4404-1718-478c-a68d-f136229c69f2",
+      "61adc5f7-3200-42af-889b-9dd238cc83c9",
+      "5f68a7ae-54c9-4044-afd0-e50144767c62"
+    ],
+    "workflow_ids": [
+      "500116480",
+      "500018002",
+      "500121016",
+      "1488"
+    ]
+  },
+  "5f746b4a-86c7-4cbe-8c09-18596500b729": {
+    "app_url": "https://app.shortcut.com/internal/team/5f746b4a-86c7-4cbe-8c09-18596500b729",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "few",
+    "name": "test",
+    "color_key": "turquoise",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5f746b4a-86c7-4cbe-8c09-18596500b729",
+    "display_icon": null,
+    "member_ids": [
+      "5cb4ac60-86fe-462b-8957-b1b03a6aa9f3"
+    ],
+    "workflow_ids": []
+  },
+  "5e851b87-0dbc-4761-b96e-a2595dedcfb9": {
+    "app_url": "https://app.shortcut.com/internal/team/5e851b87-0dbc-4761-b96e-a2595dedcfb9",
+    "description": "Support Team",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 4,
+    "mention_name": "support",
+    "name": "Support",
+    "color_key": "orange",
+    "num_stories": 91,
+    "num_epics_started": 1,
+    "id": "5e851b87-0dbc-4761-b96e-a2595dedcfb9",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "6287b6ae-a977-4027-91cf-7d129345afd8",
+      "created_at": "2022-05-20T15:41:34Z",
+      "updated_at": "2022-05-20T15:41:34Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/6287b6ae-a977-4027-91cf-7d129345afd8/thumb_MoralSupport.jpeg"
+    },
+    "member_ids": [
+      "6090519c-60ab-4c42-ab4d-7f49735d63c1",
+      "60d22716-c175-4650-9488-085f9c745c9a",
+      "5d5af326-3059-42ab-b7c7-62676c64408a"
+    ],
+    "workflow_ids": [
+      "500064058",
+      "1488"
+    ]
+  },
+  "616f34a3-6445-4b02-b124-2547069a6f39": {
+    "app_url": "https://app.shortcut.com/internal/team/616f34a3-6445-4b02-b124-2547069a6f39",
+    "description": "Deliver a differentiated product experience centered around Product Collaboration.",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "collaboration",
+    "name": "Collaboration Squad",
+    "color_key": "pink",
+    "num_stories": 53,
+    "num_epics_started": 8,
+    "id": "616f34a3-6445-4b02-b124-2547069a6f39",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "616f3499-ef9e-4fb8-9828-5bffb5b7e3dd",
+      "created_at": "2021-10-19T21:11:53Z",
+      "updated_at": "2021-10-19T21:11:53Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/616f3499-ef9e-4fb8-9828-5bffb5b7e3dd/thumb_value-proposition-linecolor-vector-21704682.jpeg"
+    },
+    "member_ids": [
+      "61b99225-78c0-48e6-b27f-8f7b80e4e5c7",
+      "621c6e2d-df23-4ee5-b464-2e9dfa0522a1",
+      "5b9ffb56-9ad9-412d-bca3-1683d32591c8",
+      "61483442-76b8-4fc8-945c-ede3085cfd36",
+      "6022bc9e-0e27-40c8-81eb-24feca4c39ce"
+    ],
+    "workflow_ids": [
+      "1488",
+      "500060651"
+    ]
+  },
+  "60cb6834-c27a-438a-8fb6-2aced3f78167": {
+    "app_url": "https://app.shortcut.com/internal/team/60cb6834-c27a-438a-8fb6-2aced3f78167",
+    "description": "Renaming Clubhouse",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 1,
+    "mention_name": "nominate",
+    "name": "Nominate",
+    "color_key": "black",
+    "num_stories": 191,
+    "num_epics_started": 1,
+    "id": "60cb6834-c27a-438a-8fb6-2aced3f78167",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "60cb682d-c007-436b-bfaa-c34f88af6762",
+      "created_at": "2021-06-17T15:20:13Z",
+      "updated_at": "2021-06-17T15:20:13Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/60cb682d-c007-436b-bfaa-c34f88af6762/thumb_parachute1.png"
+    },
+    "member_ids": [
+      "5c473fd4-c531-45c3-8203-c1798e99b030",
+      "5a7e1b9a-edb2-4c48-b31f-462864df62ca",
+      "5e1e1975-4508-4d0b-8631-240edd97e4f8",
+      "60b6a12f-9f3e-4498-af30-74ab02dc8076",
+      "5d239bc2-7318-4534-b02a-faaff8ddbeaa"
+    ],
+    "workflow_ids": [
+      "500116480",
+      "500018002",
+      "1488",
+      "500105268"
+    ]
+  },
+  "5e70ccec-118b-4937-a791-80e28f7c4e29": {
+    "app_url": "https://app.shortcut.com/internal/team/5e70ccec-118b-4937-a791-80e28f7c4e29",
+    "description": "Backend folks working on Engagement and Retention",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "eandrbackend",
+    "name": "E&R Backend",
+    "color_key": "turquoise",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5e70ccec-118b-4937-a791-80e28f7c4e29",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5e70cdae-2bb7-4ff6-9878-bcfc15850b78",
+      "created_at": "2020-03-17T13:16:30Z",
+      "updated_at": "2020-03-17T13:16:30Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5e70cdae-2bb7-4ff6-9878-bcfc15850b78/thumb_christopher-lloyd-as-doc-brown-in-back-to-the-future.png"
+    },
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": []
+  },
+  "5e3c2954-40cb-46e5-879f-e1f459d2f57a": {
+    "app_url": "https://app.shortcut.com/internal/team/5e3c2954-40cb-46e5-879f-e1f459d2f57a",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "write-eng",
+    "name": "Write Engineering",
+    "color_key": "blue",
+    "num_stories": 2,
+    "num_epics_started": 0,
+    "id": "5e3c2954-40cb-46e5-879f-e1f459d2f57a",
+    "display_icon": null,
+    "member_ids": [
+      "5ca22b31-97e3-4ef4-a142-6096a9885a95",
+      "5e66601a-f85e-4635-9658-f15b2d3fe885",
+      "5d486817-374e-46ae-bb22-a803fbc54d5a",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4"
+    ],
+    "workflow_ids": [
+      "500113656",
+      "500064058",
+      "1488"
+    ]
+  },
+  "5dc42a09-e95c-47db-b10a-6c7ea0df5638": {
+    "app_url": "https://app.shortcut.com/internal/team/5dc42a09-e95c-47db-b10a-6c7ea0df5638",
+    "description": "See all things E&R here: https://app.clubhouse.io/internal/write/IkRvYyI6I3V1aWQgIjVjZDA2Y2Y2LWY0ZTUtNGFiYy1hYjM0LWM3YmQ0NzQxZmQ2ZCI= \n\n",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "eandr-squad",
+    "name": "E&R Squad",
+    "color_key": "black",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "5dc42a09-e95c-47db-b10a-6c7ea0df5638",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5e31e778-d15f-491d-84b2-48267582f4da",
+      "created_at": "2020-01-29T20:13:44Z",
+      "updated_at": "2020-01-29T20:13:44Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5e31e778-d15f-491d-84b2-48267582f4da/thumb_more-dots.png"
+    },
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5be9d40a-38e9-4609-abbe-b99161d6fd64",
+      "5b9ffb56-9ad9-412d-bca3-1683d32591c8",
+      "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+    ],
+    "workflow_ids": []
+  },
+  "62588986-eb69-4821-8707-abeaf90d323d": {
+    "app_url": "https://app.shortcut.com/internal/team/62588986-eb69-4821-8707-abeaf90d323d",
+    "description": "",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "dataeng",
+    "name": "Data Engineering",
+    "color_key": "brass",
+    "num_stories": 1,
+    "num_epics_started": 0,
+    "id": "62588986-eb69-4821-8707-abeaf90d323d",
+    "display_icon": null,
+    "member_ids": [
+      "62151ffc-2785-433e-a786-1fdb5b72796d"
+    ],
+    "workflow_ids": [
+      "500128211",
+      "500128200"
+    ]
+  },
+  "5e9f4f5e-22e2-454b-aa6c-9d926540f390": {
+    "app_url": "https://app.shortcut.com/internal/team/5e9f4f5e-22e2-454b-aa6c-9d926540f390",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "performance-team",
+    "name": "Performance Team",
+    "color_key": "midnight-blue",
+    "num_stories": 1,
+    "num_epics_started": 0,
+    "id": "5e9f4f5e-22e2-454b-aa6c-9d926540f390",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5e9f4f3a-e274-4a21-b77e-3da282cd846b",
+      "created_at": "2020-04-21T19:53:30Z",
+      "updated_at": "2020-04-21T19:53:30Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5e9f4f3a-e274-4a21-b77e-3da282cd846b/thumb_sticker-of-a-cartoon-lightning-bolt-symbol-vector-24114445.jpg"
+    },
+    "member_ids": [
+      "61115b10-f222-4bfd-bead-116969920151",
+      "5be9d40a-38e9-4609-abbe-b99161d6fd64",
+      "5bfc4404-1718-478c-a68d-f136229c69f2",
+      "5c2e58e2-6893-4d0f-907c-2009e2d9cfea",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "5eb59133-baa1-47c7-a457-bd466d7ccd3c": {
+    "app_url": "https://app.shortcut.com/internal/team/5eb59133-baa1-47c7-a457-bd466d7ccd3c",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "teimur-team",
+    "name": "The Teimur Team",
+    "color_key": "gray",
+    "num_stories": 2,
+    "num_epics_started": 0,
+    "id": "5eb59133-baa1-47c7-a457-bd466d7ccd3c",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5eb59124-ecf7-450e-849c-02ea89001443",
+      "created_at": "2020-05-08T17:04:36Z",
+      "updated_at": "2020-05-08T17:04:36Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5eb59124-ecf7-450e-849c-02ea89001443/thumb_Screenshot%20at%20May%2008%2013-04-25.png"
+    },
+    "member_ids": [
+      "5c62f773-48a1-42e6-b9bb-af91271cf9e8"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "60e5d8a0-7b5c-447e-9973-07416bcaf5ca": {
+    "app_url": "https://app.shortcut.com/internal/team/60e5d8a0-7b5c-447e-9973-07416bcaf5ca",
+    "description": "",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 10,
+    "mention_name": "revops",
+    "name": "RevOps",
+    "color_key": "slate",
+    "num_stories": 149,
+    "num_epics_started": 7,
+    "id": "60e5d8a0-7b5c-447e-9973-07416bcaf5ca",
+    "display_icon": null,
+    "member_ids": [
+      "6058bcea-917b-4c26-b38e-b1ef2768d062",
+      "616d75be-cc33-474e-9188-fbb7532d8b35",
+      "61e02f75-6181-4ed1-a34f-30e620b53105",
+      "6108757e-c2d2-4172-be5b-9a3720608c2f"
+    ],
+    "workflow_ids": [
+      "500118071",
+      "500129029",
+      "1488"
+    ]
+  },
+  "62464d41-2a54-439a-ba39-8ac346c26c0f": {
+    "app_url": "https://app.shortcut.com/internal/team/62464d41-2a54-439a-ba39-8ac346c26c0f",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "archival",
+    "name": "Archival of Team",
+    "color_key": "fuchsia",
+    "num_stories": 0,
+    "num_epics_started": 0,
+    "id": "62464d41-2a54-439a-ba39-8ac346c26c0f",
+    "display_icon": null,
+    "member_ids": [
+      "61adc5f7-3200-42af-889b-9dd238cc83c9"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "6241b160-c121-428d-9aba-f84b8c4e0b17": {
+    "app_url": "https://app.shortcut.com/internal/team/6241b160-c121-428d-9aba-f84b8c4e0b17",
+    "description": "Collaborative knowledge sharing, product development magic.\n\n\nCK Editor Support contact information. support@cksource.com\n",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 14,
+    "mention_name": "docs",
+    "name": "Docs",
+    "color_key": "red",
+    "num_stories": 340,
+    "num_epics_started": 5,
+    "id": "6241b160-c121-428d-9aba-f84b8c4e0b17",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "6241b15a-fe44-48ab-868f-dc047cfc93ba",
+      "created_at": "2022-03-28T13:00:10Z",
+      "updated_at": "2022-03-28T13:00:10Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/6241b15a-fe44-48ab-868f-dc047cfc93ba/thumb_biden-is-our-god.png"
+    },
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5c473fd4-c531-45c3-8203-c1798e99b030",
+      "61f7f3d1-407b-4007-8e3c-4d8801eaeebd",
+      "6209f217-c73d-457b-99e2-36e87f7c3544",
+      "626f82ae-a40f-4dde-8cd3-41e84a5d7294",
+      "5bfc4404-1718-478c-a68d-f136229c69f2",
+      "621c6e2d-df23-4ee5-b464-2e9dfa0522a1",
+      "5e66601a-f85e-4635-9658-f15b2d3fe885",
+      "613b78da-ed91-4419-9835-3493ac22995c",
+      "5f7b7a20-00ac-449d-b952-87a90ce557cc",
+      "56d8a839-1c52-437f-b981-c3a15a11d6d4",
+      "61483442-41ae-4f6b-a2f2-db53edb79963"
+    ],
+    "workflow_ids": [
+      "500116480",
+      "1488"
+    ]
+  },
+  "622ba846-32f9-4d9a-8f56-5c8c3c20335c": {
+    "app_url": "https://app.shortcut.com/internal/team/622ba846-32f9-4d9a-8f56-5c8c3c20335c",
+    "description": "https://mammothgrowth.com/\nData Team's Consultant Group",
+    "archived": false,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 9,
+    "mention_name": "mammoth",
+    "name": "Mammoth Growth",
+    "color_key": "black",
+    "num_stories": 18,
+    "num_epics_started": 2,
+    "id": "622ba846-32f9-4d9a-8f56-5c8c3c20335c",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "622bab41-b5f0-4ae6-b6d1-eb430122df8b",
+      "created_at": "2022-03-11T20:04:17Z",
+      "updated_at": "2022-03-11T20:04:17Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/622bab41-b5f0-4ae6-b6d1-eb430122df8b/thumb_Screen%20Shot%202022-03-11%20at%202.03.51%20PM.png"
+    },
+    "member_ids": [
+      "62151ffc-2785-433e-a786-1fdb5b72796d"
+    ],
+    "workflow_ids": [
+      "500128211",
+      "500128200"
+    ]
+  },
+  "5f451a56-f9c7-4315-90cf-a59d9f0ca5be": {
+    "app_url": "https://app.shortcut.com/internal/team/5f451a56-f9c7-4315-90cf-a59d9f0ca5be",
+    "description": "",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "kw-backend",
+    "name": "Key Workflows Backend",
+    "color_key": "green",
+    "num_stories": 5,
+    "num_epics_started": 0,
+    "id": "5f451a56-f9c7-4315-90cf-a59d9f0ca5be",
+    "display_icon": null,
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "5e66601a-f85e-4635-9658-f15b2d3fe885"
+    ],
+    "workflow_ids": [
+      "1488"
+    ]
+  },
+  "5ee94098-db9c-4f6d-af40-73c4e0426c31": {
+    "app_url": "https://app.shortcut.com/internal/team/5ee94098-db9c-4f6d-af40-73c4e0426c31",
+    "description": "Making the Clubhouse Data Model more intuitive one day at a time.",
+    "archived": true,
+    "entity_type": "group",
+    "color": null,
+    "num_stories_started": 0,
+    "mention_name": "setup-and-manage-squad",
+    "name": "Setup & Manage Squad",
+    "color_key": "slate",
+    "num_stories": 620,
+    "num_epics_started": 0,
+    "id": "5ee94098-db9c-4f6d-af40-73c4e0426c31",
+    "display_icon": {
+      "entity_type": "org-icon",
+      "id": "5f725658-30fb-4fc0-86a2-374ef4371ae7",
+      "created_at": "2020-09-28T21:32:08Z",
+      "updated_at": "2020-09-28T21:32:08Z",
+      "url": "https://media.app.shortcut.com/api/attachments/organization-icons/clubhouse-assets/5390b4a4-5b91-4e27-b80b-879e2762bf69/5f725658-30fb-4fc0-86a2-374ef4371ae7/thumb_download.png"
+    },
+    "member_ids": [
+      "5aee0ec9-638d-433f-8b91-2ecc5750fc6e",
+      "6058b825-19f7-4704-827e-70e60a6403b8",
+      "5b9ffb56-9ad9-412d-bca3-1683d32591c8",
+      "60dde3d3-e3ac-47f1-83b5-fb661a350414",
+      "6033e588-704b-4ef5-aaf8-27710967cc7b"
+    ],
+    "workflow_ids": [
+      "500018002",
+      "500064058",
+      "1488"
+    ]
+  }
+}

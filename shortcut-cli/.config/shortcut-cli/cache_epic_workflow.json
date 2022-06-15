@@ -1,0 +1,152 @@
+{
+  "entity_type": "epic-workflow",
+  "id": 500042482,
+  "created_at": "2018-05-02T22:35:04.000Z",
+  "updated_at": "2022-06-03T23:13:28.000Z",
+  "default_epic_state_id": 500042483,
+  "epic_states": [
+    {
+      "description": "Where we organize signals coming in to decide what is out of strategy and within focus.",
+      "entity_type": "epic-state",
+      "name": "1. Unprioritized",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500042483",
+      "type": "unstarted",
+      "updated_at": "2020-09-28T20:39:54.000Z",
+      "id": 500042483,
+      "position": 0,
+      "created_at": "2018-05-02T22:35:04.000Z"
+    },
+    {
+      "description": "Where we measure the ROI of a user problem and decide whether it should go into the next stage of planning & expectations on how quickly it should move through all stages.",
+      "entity_type": "epic-state",
+      "name": "2. ROI Evaluation",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500046426",
+      "type": "unstarted",
+      "updated_at": "2020-09-28T20:40:49.000Z",
+      "id": 500046426,
+      "position": 1,
+      "created_at": "2018-06-19T03:05:15.000Z"
+    },
+    {
+      "description": "We measure the ROI of a user problem and to decide whether it should go into the next stage of planning.",
+      "entity_type": "epic-state",
+      "name": "3. Needs Problem Validation",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500105048",
+      "type": "unstarted",
+      "updated_at": "2020-09-28T20:50:23.000Z",
+      "id": 500105048,
+      "position": 2,
+      "created_at": "2020-09-28T20:49:57.000Z"
+    },
+    {
+      "description": "Enable Product + Design to present the user problem + results from research and start brainstorming solutions with the entire solutioning squad team to get better refinement on ROI and decide whether we proceed to next stage of planning.",
+      "entity_type": "epic-state",
+      "name": "4. Solutioning Brainstorm",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500105049",
+      "type": "unstarted",
+      "updated_at": "2021-05-26T01:40:32.000Z",
+      "id": 500105049,
+      "position": 3,
+      "created_at": "2020-09-28T20:51:14.000Z"
+    },
+    {
+      "description": "The goal of this stage is to determine the final solution with all different departments doing their necessary research and have an accurate ROI. At this point, all departments should actively be contributing to the PRD, there should be designs, and estimations should be in weeks.",
+      "entity_type": "epic-state",
+      "name": "5. Solutioning",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500105050",
+      "type": "unstarted",
+      "updated_at": "2020-09-28T20:51:56.000Z",
+      "id": 500105050,
+      "position": 4,
+      "created_at": "2020-09-28T20:51:56.000Z"
+    },
+    {
+      "description": "The goal of this stage is to validate final solution with customers or refine as necessary.",
+      "entity_type": "epic-state",
+      "name": "6. Solution Validation",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500105051",
+      "type": "unstarted",
+      "updated_at": "2020-09-28T20:52:12.000Z",
+      "id": 500105051,
+      "position": 5,
+      "created_at": "2020-09-28T20:52:12.000Z"
+    },
+    {
+      "description": "The goal of this stage is for all stakeholders to sign off on the final solution.",
+      "entity_type": "epic-state",
+      "name": "7. Finalizing Scope And Work",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500046430",
+      "type": "unstarted",
+      "updated_at": "2022-05-11T16:03:23.000Z",
+      "id": 500046430,
+      "position": 6,
+      "created_at": "2018-06-19T03:08:43.000Z"
+    },
+    {
+      "description": "The goal of this stage is that the engineering team can add work to sprints and start developing.",
+      "entity_type": "epic-state",
+      "name": "8. Ready for Development",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500105052",
+      "type": "unstarted",
+      "updated_at": "2020-09-28T20:52:45.000Z",
+      "id": 500105052,
+      "position": 7,
+      "created_at": "2020-09-28T20:52:45.000Z"
+    },
+    {
+      "description": "",
+      "entity_type": "epic-state",
+      "name": "In Development",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500042484",
+      "type": "started",
+      "updated_at": "2020-09-28T20:47:47.000Z",
+      "id": 500042484,
+      "position": 8,
+      "created_at": "2018-05-02T22:35:04.000Z"
+    },
+    {
+      "description": "",
+      "entity_type": "epic-state",
+      "name": "Testing and Validation",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500046427",
+      "type": "started",
+      "updated_at": "2020-09-29T00:22:06.000Z",
+      "id": 500046427,
+      "position": 9,
+      "created_at": "2018-06-19T03:05:34.000Z"
+    },
+    {
+      "description": "Work that was setup by a squad to complete, but due to a shift in org structure or priorities or other shifts is no longer a current active set of work.\n\n\"On Hold\" is a \"Started\" state because an unfinished epic has both some amount of risk -- f.e. is the work we've already shipped stable enough to exist on its own? is the code currently used, or is it dead code at risk of bit rot? did we ship enough to validate the hypotheses that founded the epic? -- as well as an unknown amount of realized value -- f.e. can users make use of the code we've shipped? are we solving a subset of the original problems we set out to solve? -- that should be addressed at some point. This could either be through moving the unstarted work to a new epic and calling the current epic Done, through reverting whatever changes were already shipped and cancelling the epic, or perhaps something else that allows us to tie a neat bow on the work we've done so far.\n\nKeeping an on hold epic in a Started state reminds us that we've got some unresolved tidying to do, which is good.",
+      "entity_type": "epic-state",
+      "name": "On Hold",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500130130",
+      "type": "started",
+      "updated_at": "2022-05-05T17:07:55.000Z",
+      "id": 500130130,
+      "position": 10,
+      "created_at": "2022-04-18T15:18:43.000Z"
+    },
+    {
+      "description": "",
+      "entity_type": "epic-state",
+      "name": "Done",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500042485",
+      "type": "done",
+      "updated_at": "2022-06-03T23:13:28.000Z",
+      "id": 500042485,
+      "position": 11,
+      "created_at": "2018-05-02T22:35:04.000Z"
+    },
+    {
+      "description": "We've decided against completing this work. We may or may not decide to move this back to Unstarted or Started, or leave this in done and create a new Epic instead.",
+      "entity_type": "epic-state",
+      "name": "Cancelled",
+      "global_id": "v2:es:5390b4a4-5b91-4e27-b80b-879e2762bf69:500105047",
+      "type": "done",
+      "updated_at": "2022-03-17T19:42:46.000Z",
+      "id": 500105047,
+      "position": 12,
+      "created_at": "2020-09-28T20:49:13.000Z"
+    }
+  ]
+}

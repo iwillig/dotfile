@@ -1,0 +1,48 @@
+; internal.shortcut
+
+; Workflow States for Engineering
+def workflow-engineering    workflow 1488
+def wf-draft                500064956
+def wf-ready-for-refinement 500122128
+def wf-ready-for-dev        1493
+def wf-unstarted            1493
+def wf-in-dev               1491
+def wf-started              1491
+def wf-ready-for-review     2199
+def wf-ready-for-acceptance 500090681
+def wf-ready-for-deploy     1495
+def wf-completed            1494
+def wf-done                 1494
+def wf-cancelled            500105500
+
+; Custom Fields
+def cf-skillset "61f84cbc-221f-49fc-8649-758ccf80fe8e" ; field_id
+def cf-backend  "61f84cbc-5171-4a95-874e-98d01ae45f2d" ; value_id
+
+; Utilities
+def not-done          {.workflow_state_types ["started" "unstarted"]}
+def not-finished      {.workflow_state_types ["started" "unstarted"]}
+def owned-by          value (fn [member] {.owner_ids [member]})
+
+def epics-unstarted   value (fn [epics] (where epics {.state "to do"}))
+def epics-todo        value (fn [epics] (where epics {.state "to do"}))
+def epics-in-progress value (fn [epics] (where epics {.state "in progress"}))
+def epics-started     value (fn [epics] (where epics {.state "in progress"}))
+def epics-done        value (fn [epics] (where epics {.state "done"}))
+def epics-finished    value (fn [epics] (where epics {.state "done"}))
+def epics-completed   value (fn [epics] (where epics {.state "done"}))
+
+def stories-unstarted   value (fn [stories] (where stories {[.workflow_state_id .type] "unstarted"}))
+def stories-todo        value (fn [stories] (where stories {[.workflow_state_id .type] "unstarted"}))
+def stories-in-progress value (fn [stories] (where stories {[.workflow_state_id .type] "started"}))
+def stories-started     value (fn [stories] (where stories {[.workflow_state_id .type] "started"}))
+def stories-done        value (fn [stories] (where stories {[.workflow_state_id .type] "done"}))
+def stories-finished    value (fn [stories] (where stories {[.workflow_state_id .type] "done"}))
+def stories-completed   value (fn [stories] (where stories {[.workflow_state_id .type] "done"}))
+
+
+def bugs     value (fn [stories] (where stories {.story_type "bug"}))
+def chores   value (fn [stories] (where stories {.story_type "chore"}))
+def features value (fn [stories] (where stories {.story_type "feature"}))
+
+"Shortcut internal loaded!"

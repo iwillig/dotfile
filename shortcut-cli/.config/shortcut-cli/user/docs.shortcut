@@ -1,0 +1,48 @@
+;;
+; docs.shortcut
+
+; Load defaults for our Shortcut `internal` workspace
+load "user/internal.shortcut"
+
+; Teams
+def team-besp team "5fb40980-bf95-4f82-98b6-84570cb26d48"
+def team-data team "607704fc-c352-45bb-b618-99b1eb93d8c6"
+def team-data-layer team "618e84a5-e871-4e59-916a-223c0709748f"
+def team-docs team "6241b160-c121-428d-9aba-f84b8c4e0b17"
+
+
+; Members
+def ben     member "5be9d40a-38e9-4609-abbe-b99161d6fd64"
+def daniel  member "5d48684c-ebe0-45c5-8873-754f239a4ad0"
+def drew    member "62151ffc-2785-433e-a786-1fdb5b72796d"
+def francis member "5d239bc2-7318-4534-b02a-faaff8ddbeaa"
+def mark    member "60b6a12f-9f3e-4498-af30-74ab02dc8076"
+def paul-g  member "58b5e8a7-d943-4cee-a0da-fc07b1c932ad"
+def paul-s  member "5e6659c1-48fa-41ee-a075-c9aa121a1b8e"
+def toby    member "5a7e1b9a-edb2-4c48-b31f-462864df62ca"
+
+def eric    member "5e66601a-f85e-4635-9658-f15b2d3fe885"
+def ivan    member "56d8a839-1c52-437f-b981-c3a15a11d6d4"
+def nicolas member "5c473fd4-c531-45c3-8203-c1798e99b030"
+def juan    member "5ca22b31-97e3-4ef4-a142-6096a9885a95"
+def hanna    member "61f7f3d1-407b-4007-8e3c-4d8801eaeebd"
+def heather  member "626f82ae-a40f-4dde-8cd3-41e84a5d7294"
+def saralohr member "621c6e2d-df23-4ee5-b464-2e9dfa0522a1"
+def pete     member "6209f217-c73d-457b-99e2-36e87f7c3544"
+
+; Docs Defaults
+
+def restart-docs epic "186266"
+
+def fix-doc-rel story "189479"
+
+
+;; def my-epics [
+;; ]
+
+; BESP Utilities
+def fetch-docs-epics value %(epics team-docs)
+def this-iter  value (fn [team] (interpret "team | iterations | where {.status \"started\"}"))
+
+
+"Docs context loaded!"

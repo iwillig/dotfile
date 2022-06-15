@@ -1,0 +1,528 @@
+summary
+ls
+cd 197430 
+summary
+fetch-all
+fetch
+cd 33 
+stories
+cd
+fetch-all
+summary
+cd 192731 
+summary
+ls
+fetch-all
+open
+summary
+cd 196176 
+ls
+summary
+fetch
+summary
+fetch
+summary
+fetch
+summary
+fetch
+summary
+fetch
+summary
+fetch
+summary
+cd 192550 
+this-iter
+load "user/docs.shortcut" 
+this-iter
+ls
+cd team-docs
+load "user/docs.shortcut" 
+ls
+load "user/docs.shortcut" 
+n
+cd team-docs
+open
+.comments
+summary
+ls
+cd 195590 
+.comments 
+cd 195612
+ls
+cd 192257
+.comments
+.comment
+ls
+summary
+cd 194738 
+open
+ls
+.comments
+summary
+ls
+open 
+summary
+fetch
+summary
+ls
+cd 195590 
+summary
+ls
+cd 192257 
+this-iter
+summary
+cd team-docs
+summary
+ls
+cd 192257 
+this-iter
+cd team-docs
+cd 
+ open
+summary
+ls
+load "user/docs.shortcut" 
+ls
+summary
+ls
+summary
+ls
+ ls
+open
+summary
+ls
+cd 194002 
+
+ls
+summary
+open
+ls
+n
+Ls
+ls
+summary
+open
+ls
+cd 192257 
+this-iter
+cd team-docs
+summary
+cd 192134 
+summary
+cd 192257 
+this-iter
+cd team-docs
+load "user/docs.shortcut" 
+open
+summary
+load "user/docs.shortcut" 
+summary
+fetch
+summary
+fetch
+summary
+load "user/docs.shortcut" 
+summary
+fetch
+
+summary
+fetch
+summary
+fetch
+summary
+fetch
+summary
+fetch
+summary
+cd 192134 
+summary
+cd 192134 
+this-iter
+cd team-docs
+load "user/docs.shortcut" 
+N
+cd team-docs
+this-iter
+fetch-all
+cd team-docs
+load "user/docs.shortcut" 
+iteration
+summary
+fetch-all
+summary
+cd  192134 
+this-iter
+cd team-docs
+load "user/docs.shortcut" 
+this-iter
+cd team-docs
+load "user/docs.shortcut" 
+ summary
+fetch-all
+ summary
+ls
+this-iter
+cd 192134 
+this-iter
+cd team-docs
+this-iter
+team-docs
+ls
+load "user/docs.shortcut" 
+n
+
+ls
+n
+Ls
+summary
+ls
+summary
+n
+Ls
+cd 194002 
+pwd
+ls
+open 
+summary
+ls
+cd 188379 
+ls
+summary
+fetch-all
+summary
+fetch-all
+summary
+cd 192134
+
+this-iter
+cd team-docs
+load "user/docs.shortcut" 
+summary
+ls
+help
+open 
+summary
+ls
+cd 192134 
+this-iter
+ls
+cd team-docs
+n
+cd 6241b160-c121-428d-9aba-f84b8c4e0b17 
+pwd
+ ivan
+pwd
+open
+
+open
+summary
+
+summarYm
+ls
+cd 192134 
+this-iter
+cd team-docs
+summary
+cd 188379 
+ls
+summary
+cd 192134 
+pwd
+n
+pwD
+open
+summary
+ls
+cd 192194 
+summary
+ls
+cd 192134 
+this-iter
+load "user/docs.shortcut" 
+n
+ci
+ls 
+cd team-docs
+load "user/docs.shortcut" 
+ls
+cd team-docs
+team-docs
+load "user/docs.shortcut" 
+ls
+cd 192134 
+current-iterations
+cd team-docs
+load "user/docs.shortcut" 
+summary
+ls
+cd 192134 
+cd ci
+
+ci
+cd team-docs
+load "user/docs.shortcut" 
+cd team-docs
+load "user/docs.shortcut" 
+team-docs | team-current-iterations
+load "user/docs.shortcut" 
+team-docs | iterations | where {.status "started" }
+team-docs | iterations 
+ivan
+team-docs
+team-docs | current-iteration 
+load "user/docs.shortcut" 
+team-docs | iterations
+team-docs | epics
+load "user/docs.shortcut" 
+team-docs | epics
+team-docs | iterations
+team-docs
+load "user/docs.shortcut" 
+team-docs
+team-doCsn
+team-doCs
+team-docs | iterations
+load "user/docs.shortcut" 
+
+team-docs
+team-docs | iterations
+summary
+ls
+load "user/docs.shortcut" 
+n
+team-docs
+summary
+ls
+cd 192257 
+iterations
+iterations {.status "started"} 
+iterations 
+iterations | team-docs
+iterations team-docs
+iterations
+load "user/docs.shortcut" 
+team-docs | current-iteration
+current-iteration
+load "user/docs.shortcut" 
+
+load "user/docs.shortcut" 
+ivan
+load "user/docs.shortcut" 
+n
+team-current-iterations team-docs
+load "user/docs.shortcut" 
+fetch-all
+open
+cd fix-doc-rel
+load "user/docs.shortcut" 
+ls
+cd restart-docs
+cd .. 
+open
+cd fix-doc-rel
+fix-doc-rel
+n
+fix-doc-rel-embedded-attr
+load "user/docs.shortcut" 
+fix-doc-rel-embedded-attr
+load "user/docs.shortcut" 
+ls
+pwd 
+N
+
+pwD
+n
+pwD
+
+ls
+pwd
+ls
+cd restart-docs
+restart-docs
+load "user/docs.shortcut" 
+
+epics team-docs
+ls
+help
+ls
+cd team-docs
+load "user/docs.shortcut" 
+n
+load "user/docs.shortcut" 
+ls
+n
+load "user/docs.shortcut" 
+ls 
+cd 192134 
+team-docs
+ls
+owned-by ivan | extend not-done | find-stories | count
+count owned-by ivan | extend not-done | find-stories
+owned-by ivan | extend not-done | find-stories
+
+owned-by ben | extend not-done | find-stories
+whoami
+help
+not-done
+team-docs
+nicolas
+heather
+ivan
+summary
+ls 
+cd 186266 
+ls 
+pwd
+fetch-docs-epics
+load "user/docs.shortcut" 
+hanna
+load "user/docs.shortcut" 
+heather
+load "user/docs.shortcut" 
+1
+
+load "user/docs.shortcut" 
+heather
+load "user/docs.shortcut" 
+juan
+load "user/docs.shortcut" 
+pete
+load "user/docs.shortcut" 
+help
+ls 
+cd team-docs
+team-docs
+nicolas
+load "user/docs.shortcut" 
+eric
+ivan
+load "user/docs.shortcut" 
+pwd
+load "user/docs.shortcut" 
+pwd
+summary
+cd 193748 
+pwd
+cd
+summary
+ls
+cd 194002 
+cd https://app.shortcut.com/internal/story/194002 
+summary
+ help
+summary
+ls
+summary
+ ls
+help
+ls
+summary
+cd 193748 
+ls
+ summary 
+ls 
+open 
+ls
+summary
+cd 192134 
+pwd
+ls 
+ls
+summary
+ls
+summary
+help
+ls
+pwd
+ls
+cd 192174 
+cd 192173 
+ls
+cd 192173 
+summary
+me
+ls
+pwd
+help
+pwd
+ls
+me
+ls
+summary
+cd 192114
+cd 162114
+n
+c192114
+cd ../
+ls
+summary
+pwd
+me
+pwd
+ls
+help
+summary
+cd 192909 
+cd story 192909 
+summary
+story 192909 
+open 
+summary
+ls
+open 
+help
+ls
+n
+list
+cd 192114 
+pwd 192114 
+iterations
+ pwd
+iterations | sort .status
+iterations | map .status
+iterations | map .state
+iterations
+
+f
+ls
+pwd
+me | .group_ids | where {.mention_name "docs"} | first | cd 
+me | .group_ids | where {.mention_name "docs"}
+me | .group_ids | where {.mention_name "Docs"}
+me | .group_ids
+pwd
+ls
+
+ 
+   
+help
+n
+find-first {.mention_name "docs"}
+me | .group_ids | 
+me .group_ids
+n
+me .group_id | search docs
+pwd
+me | .group_ids | first | .id | cd
+me | .group_ids | first | .id
+me | .group_ids | first
+
+cdme | .group_ids | first
+pwd
+me | .group_ids
+whoami
+cwd
+pwd
+help
+cd "c6241b160-c121-428d-9aba-f84b8c4e0b17"
+c6241b160-c121-428d-9aba-f84b8c4e0b17 
+c[Team][@docs] Docs ["6241b160-c121-428d-9aba-f84b8c4e0b17"]
+setup
+fetch-all
+n
+team docs
+teams
+help
+me
+help
+me
